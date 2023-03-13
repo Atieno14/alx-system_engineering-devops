@@ -1,2 +1,2 @@
 #!/bin/bash
-fing . -empty
+find . -empty
